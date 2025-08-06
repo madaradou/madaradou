@@ -70,8 +70,8 @@ My journey spans **end-to-end software development**, from conceptualization and
     <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
       <h3 style="color: #EABE7C;">🥈 Competition Excellence</h3>
       <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>2nd Place</strong> – Game Day 2023 for "The World Within"</li>
-        <li><strong>2nd Place</strong> – Bal des Projets 2023 by ESPRIT</li>
+        <li><strong>2nd Place</strong> – Game Day 2024 for "Rebirth"</li>
+        <li><strong>2nd Place</strong> – Bal des Projets 2024 by ESPRIT</li>
         <li><strong>Award-winning</strong> 2D platformer game with SDL 1.2</li>
         <li><strong>Top Recognition</strong> – Multiple university competitions</li>
       </ul>
