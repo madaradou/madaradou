@@ -2,13 +2,13 @@
 
   # 👋 Welcome to Yassine Wesslati's GitHub Profile
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=EABE7C&center=true&vCenter=true&width=800&lines=Mohamed+Abidi;Engineering+Student;Tech+Entrepreneur" alt="Header typing animation" />
+  <img src="https://img.shields.io/static/v1?label=&message=Yassine%20Wesslati%20%7C%20Engineering%20Student%20%7C%20Tech%20Entrepreneur&color=0074D9&style=for-the-badge&logo=github&logoColor=white" alt="Glitch animation" />
 
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EABE7C&center=true&vCenter=true&width=700&lines=Engineering+Student+%26+Tech+Entrepreneur;Full-Stack+Developer+%26+Mentor;Arduino+Programming+%26+IoT+Enthusiast;Building+Impactful+Educational+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0074D9&center=true&vCenter=true&width=700&lines=Engineering+Student+%26+Tech+Entrepreneur;Full-Stack+Developer+%26+Mentor;Arduino+Programming+%26+IoT+Enthusiast;Building+Impactful+Educational+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -112,23 +112,16 @@ My journey spans **end-to-end software development**, from conceptualization and
 
 ## 🌟 **Featured Projects**
 
-### 🌱 **EcoNet** - Environmental Management Platform
-> **Full-Stack Developer** | *Symfony 6.4, JavaFX, MySQL, AI/ML*
-- Comprehensive ecological platform with web and desktop applications
-- AI integration, community forums, marketplace, and analytics
-- Face recognition authentication and real-time environmental tracking
-- **[EcoNet Web](https://github.com/fekikarim/econet)** | **[EcoNet Desktop](https://github.com/fekikarim/econet-java)**
-
 ### 🤖 **Hotelia Smart** - AI-Powered Recruitment Platform
 > **Lead Developer** | *PHP, Python, MySQL, OpenCV, Stripe*
-- AI-driven job matching algorithms and chatbot assistance
+- AI-chatbot assistance
 - Face recognition authentication and voice navigation
-- Real-time messaging and secure payment processing
+- Real-time messaging
 - **[Source Code](https://github.com/madaradou/hireup)**
 
-### 🏭 **Cleansy** - Waste Management System
+### 🏭 **Cleansy** - cleaning center management
 > **Desktop Developer** | *Qt C++, Arduino, SQL, RFID*
-- Comprehensive waste management with Arduino RFID integration
+- Comprehensive cleaning center management with Arduino RFID integration
 - Real-time notifications, mapping services, and analytics
 - Employee, client, and fleet management capabilities
 - **[GitHub Repo](https://github.com/madaradou/clansyqtapp.git)**
