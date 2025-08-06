@@ -2,7 +2,7 @@
 
   # 👋 Welcome to Yassine Wesslati's GitHub Profile
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=EABE7C&center=true&vCenter=true&width=800&lines=Mohamed+Abidi;Mentor+%26+Founder+of+Tache-Lik;Engineering+Student;Tech+Entrepreneur" alt="Header typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=EABE7C&center=true&vCenter=true&width=800&lines=Mohamed+Abidi;Engineering+Student;Tech+Entrepreneur" alt="Header typing animation" />
 
 </div>
 
@@ -16,8 +16,7 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=madaradou&style=for-the-badge&color=brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/madaradou?style=for-the-badge&color=blue)](https://github.com/madaradou)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/med-abidi/)
-  [![Tache-Lik](https://img.shields.io/badge/Tache--Lik-Visit%20Platform-orange?style=for-the-badge&logo=graduation-cap)](https://www.tache-lik.tn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yassin-wesslati-967324371)
 
 </div>
 
@@ -25,7 +24,7 @@
 
 ## 🎯 **About Me**
 
-I am **Mohamed Abidi**, an **Engineering Student** and passionate **Tech Entrepreneur** with expertise in **Full-Stack Development**, **Educational Technology**, and **IoT Solutions**.
+I am **Yassine wesslati**, an **Engineering Student** and passionate **Tech Entrepreneur** with expertise in **Full-Stack Development**, **Educational Technology**, and **IoT Solutions**.
 
 My journey spans **end-to-end software development**, from conceptualization and system architecture to deployment and scaling. I specialize in **cross-platform development**, **real-time applications**, and **mentorship-driven platforms**, consistently delivering solutions that exceed expectations and create meaningful impact.
 
